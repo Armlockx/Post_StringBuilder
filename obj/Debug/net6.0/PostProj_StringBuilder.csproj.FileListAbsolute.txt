@@ -1,0 +1,14 @@
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\bin\Debug\net6.0\PostProj_StringBuilder.exe
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\bin\Debug\net6.0\PostProj_StringBuilder.deps.json
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\bin\Debug\net6.0\PostProj_StringBuilder.runtimeconfig.json
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\bin\Debug\net6.0\PostProj_StringBuilder.dll
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\bin\Debug\net6.0\PostProj_StringBuilder.pdb
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\obj\Debug\net6.0\PostProj_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\obj\Debug\net6.0\PostProj_StringBuilder.AssemblyInfoInputs.cache
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\obj\Debug\net6.0\PostProj_StringBuilder.AssemblyInfo.cs
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\obj\Debug\net6.0\PostProj_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\obj\Debug\net6.0\PostProj_StringBuilder.dll
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\obj\Debug\net6.0\refint\PostProj_StringBuilder.dll
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\obj\Debug\net6.0\PostProj_StringBuilder.pdb
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\obj\Debug\net6.0\PostProj_StringBuilder.genruntimeconfig.cache
+C:\Users\JulioNVMe\source\repos\PostProj_StringBuilder\obj\Debug\net6.0\ref\PostProj_StringBuilder.dll

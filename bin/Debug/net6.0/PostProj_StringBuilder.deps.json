@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PostProj_StringBuilder/1.0.0": {
+        "runtime": {
+          "PostProj_StringBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostProj_StringBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
